@@ -1,1 +1,7 @@
 this is example
+
+this is a new line
+
+and another
+
+and one more
